@@ -34,41 +34,78 @@ function LandingSection() {
     );
 }
 
-// function ArtefakOfTheDay() {
-//     const items = artefakData.artefak;
-//     const random = items[Math.floor(Math.random() * items.length)];
+function ArtefakOfTheDay() {
+    const [randomArtefak, setRandomArtefak] = useState(null);
 
-//     return(
-//         <section className="artefakSection">
-//             <div className="artefakLeft">
-//             <img src={random.image} alt={random.nama} className="artefakImage" />
-//             <div className="artefakGradient"></div>
-//         </div>
-//         <div className="artefakRight">
-//             <h2>Artefak of The Day</h2>
-//             <h2>{random.nama}</h2>
-//         </div>
-//         </section>
-//     );
-// }
+    useEffect(() => {
+        fetchData();
+    }, []);
+
+    const fetchData = async () => {
+        try {
+            const res = await fetch("/json/JsonArtefak.json");
+            const dat = await res.json();
+            const items = dat.artefak;
+            const random = items[Math.floor(Math.random() * items.length)];
+            setRandomArtefak(random);
+        } catch (error) {
+            console.error("Failed to fetch artefak data:", error);
+        }
+    };
+
+    if (!randomArtefak) {
+        return <div>Loading Artefak of the Day...</div>;
+    }
+
+    return (
+        <section className="artefakSection">
+            <div className="artefakLeft">
+                <img src={randomArtefak.image} alt={randomArtefak.nama} className="artefakImage" />
+                <div className="artefakGradient"></div>
+            </div>
+            <div className="artefakRight">
+                <h2>Artefak of The Day</h2>
+                <h2>{randomArtefak.nama}</h2>
+            </div>
+        </section>
+    );
+}
 
 function Kegiatan() {
-    // const items = kegiatanData.kegiatan;
+    const [kegiatan, setKegiatan] = useState([]);
+
+    useEffect(() => {
+        fetchData();
+    }, []);
+
+    const fetchData = async () => {
+        try {
+            const res = await fetch("/json/JsonKegiatan.json");
+            const data = await res.json();
+            setKegiatan(data.kegiatan);
+        } catch (error) {
+            console.error("Failed to fetch kegiatan:", error);
+        }
+    };
+
     return (
         <section>
             <div className="contentSect">
                 <h2>Kegiatan di Museum Nasional</h2>
                 <div className="listKegiatan">
-                    {/* {items.slice(0, 4).map((item) => (
-                        <CardView
-                            key={item.id}
-                            id={item.id}
-                            title={item.nama} 
-                            image={item.image}
-                            type="kegiatan"
-                        />
-                    ))} */}
-                    INI ADALAH HOME
+                    {kegiatan.length === 0 ? (
+                        <p>Loading kegiatan...</p>
+                    ) : (
+                        kegiatan.slice(0, 4).map((item) => (
+                            <CardView
+                                key={item.id}
+                                id={item.id}
+                                title={item.nama}
+                                image={item.image}
+                                type="kegiatan"
+                            />
+                        ))
+                    )}
                 </div>
             </div>
         </section>
@@ -80,7 +117,7 @@ function Home() {
         <>
             <div className="homePage">
                 <LandingSection />
-                {/* <ArtefakOfTheDay /> */}
+                <ArtefakOfTheDay />
                 <Kegiatan />
             </div>
         </>
