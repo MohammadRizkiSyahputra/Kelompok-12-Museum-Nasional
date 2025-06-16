@@ -1,0 +1,263 @@
+{
+  "artefak": [
+    {
+      "id": 1,
+      "nama": "Padrao",
+      "image": "/assets/images/Padrao.jpg",
+      "kategori": "Sejarah",
+      "deskripsi": "Padrao merupakan batu yang diukir untuk memperingati perjanjian antara Portugis dan Kerajaan Sunda. Pada tahun 1522, Gubernur Portugis di Malaka, Jorge d'Albuquerque, menugaskan Henrique Leme untuk mengembangkan hubungan dagang dengan Raja Sunda atau “Samiam”. Perjanjian antara Portugis dan Kerajaan Sunda ditandatangani pada tanggal 21 Agustus 1522. Perjanjian tersebut mengizinkan Portugis untuk mendirikan kantor dagang di dalam benteng Sunda Kelapa dan membuat batu peringatan (padrao dalam bahasa Portugis). Kerajaan Sunda membuat perjanjian ini untuk hubungan dagang dan juga untuk mendapatkan dukungan Portugis dalam menghadapi Kerajaan Islam Demak. Pada akhirnya, perjanjian tersebut tidak dilaksanakan, karena pada tahun 1527 Fatahilah, sultan Demak berhasil menaklukkan Sunda Kelapa."
+    },
+    {
+      "id": 2,
+      "nama": "Raffles Statue",
+      "image": "/assets/images/Raffles-Statue.jpg",
+      "kategori": "Sejarah",
+      "deskripsi": "Patung ini merupakan patung Sir Thomas Stamford Raffles, Letnan GUBERNUR Inggris di Jawa (1811–1816). Raffles memprakarsai pembangunan gedung baru untuk Batavia Society di Jalan Majapahit no.3 (sekarang Museum Nasional) untuk menampung koleksi besar milik organisasi ini. Ketertarikannya yang besar pada banyak cabang ilmu pengetahuan seperti antropologi, sejarah, dan arkeologi membuat Raffles mendukung Batavia Society of Arts and Sciences dan kemudian menjadi direktur. Raffles juga dikenal sebagai penulis buku terkenal “The History of Java”. Raffles mengeluarkan kebijakan-kebijakan seperti:\n\n– Pembagian Jawa menjadi 16 karesidenan sehingga memudahkan penguasaan wilayah;\n\n– Pembentukan sistem peradilan baru;\n\n– Larangan perbudakan; dan\n\n– Pendirian kebun raya di Bogor."
+    },
+    {
+      "id": 3,
+      "nama": "Case",
+      "image": "/assets/images/Case.jpg",
+      "kategori": "Sejarah",
+      "deskripsi": "Kotak memiliki arti yang cukup penting bagi kehidupan orang Eropa dan biasanya digunakan untuk menyimpan benda berharga, arsip, pakaian, dan lain-lain. Kotak berhiaskan gaya Barok ini berkembang pada masa pemerintahan Louis XIV di Prancis (abad ke-17). Kotak jenis ini digunakan sebagai tempat penyimpanan uang."
+    },
+    {
+      "id": 4,
+      "nama": "Bell",
+      "image": "/assets/images/Bell.jpg",
+      "kategori": "Sejarah",
+      "deskripsi": "Lonceng ini memiliki tulisan aksara Jawa Kuno yang menyebutkan bahwa lonceng ini dibuat atas perintah Cakra Adiningrat II dari Madura pada tahun 1742."
+    },
+    {
+      "id": 5,
+      "nama": "Room Partition",
+      "image": "/assets/images/Room-Partition.jpg",
+      "kategori": "Sejarah",
+      "deskripsi": "Layar berukir rumit ini mengingatkan pada gaya Louis XIV dan konon dibuat pada akhir abad ke-17. Layar ini digunakan sebagai partisi di kantor pemerintah Hindia Belanda, tetapi benda serupa juga sering ditemukan di atas kapal."
+    },
+    {
+      "id": 6,
+      "nama": "Spear and Saddle",
+      "image": "/assets/images/Spear-and-Saddle.jpg",
+      "kategori": "Sejarah",
+      "deskripsi": "Kedua barang ini milik Pangeran Diponegoro, seorang pahlawan Indonesia yang berperang melawan Belanda antara tahun 1825 dan 1830."
+    },
+    {
+      "id": 7,
+      "nama": "Large Water Jar",
+      "image": "/assets/images/Large-Water-Jar.jpg",
+      "kategori": "Sejarah",
+      "deskripsi": "Barang-barang dari terakota sebagian besar ditemukan di Jawa Barat, di tempat-tempat seperti Tangerang, Serang, dan Banten. Guci dan vas sangat populer dan digunakan di taman-taman hias oleh tuan tanah Indonesia yang kaya dan orang-orang Belanda dan Cina yang kaya di Jakarta. Meskipun bergaya Eropa, barang-barang ini dibuat oleh perajin Cina yang tinggal di Indonesia, dan pengaruh Cina tercermin dalam relief bunga."
+    },
+    {
+      "id": 8,
+      "nama": "Kendi",
+      "image": "/assets/images/Kendi.jpg",
+      "kategori": "Prasejarah",
+      "deskripsi": "Kendi ini memiliki motif ameander pada bagian leher dan dipakai sebagai benda upacara atau alat tukar."
+    },
+    {
+      "id": 9,
+      "nama": "Bracelet",
+      "image": "/assets/images/Bracelet.jpg",
+      "kategori": "Prasejarah",
+      "deskripsi": "Gelang ini memiliki motif tumpal pada badan dan digunakan sebagai perhiasan, penunjuk status sosial dan sebagai benda upacara."
+    },
+    {
+      "id": 10,
+      "nama": "Ceremonial Axe",
+      "image": "/assets/images/Ceremonial-Axe.jpg",
+      "kategori": "Prasejarah",
+      "deskripsi": "Gagang kapak ini panjang dan melengkung, dibentuk menyatu dengan kepala kapak. Bagian atas gagangnya berbentuk seperti cakram dan dihiasi dengan pola seperti roda gigi. Bilahnya menyerupai kipas, dan memiliki desain figur dengan kepala besar dan tubuh kecil."
+    },
+    {
+      "id": 11,
+      "nama": "Bag (Noken)",
+      "image": "/assets/images/Bag-Noken.jpg",
+      "kategori": "Prasejarah",
+      "deskripsi": "Meskipun dibuat secara modern, desain tas ini berasal dari zaman Prasejarah. Jenis tas ini masih digunakan hingga saat ini oleh para wanita suku Dani untuk membawa bahan makanan dan barang lainnya. Tali tas diletakkan di kepala sehingga tas berada di punggung, sehingga kedua tangan tetap bebas."
+    },
+    {
+      "id": 12,
+      "nama": "Beads",
+      "image": "/assets/images/Beads.jpg",
+      "kategori": "Prasejarah",
+      "deskripsi": "Di banyak daerah di Indonesia, manik-manik selalu memiliki arti penting. Manik-manik digunakan sebagai mata uang, untuk keperluan perdagangan atau barter, dan juga dianggap sebagai benda berharga dalam upacara adat. Beberapa manik-manik dihiasi dengan motif mata karena mata dipercaya memiliki kekuatan pelindung.\n\nManik-manik berwarna-warni ini ditemukan di sebuah makam dan oleh karena itu diasumsikan sebagai benda pemakaman. Manik-manik sering kali ditaburkan di atas jenazah agar roh mereka dapat membayar jasa mereka di akhirat."
+    },
+    {
+      "id": 13,
+      "nama": "Curved Axe Black Stone",
+      "image": "/assets/images/Curved-Axe-Black-Stone.jpg",
+      "kategori": "Prasejarah",
+      "deskripsi": "Alat penggali dan pemotong ini berbentuk seperti pahat (kedua sisi sejajar dan tegak). Memiliki bilah bermata dua, dengan sisi atas melengkung dan alas datar."
+    },
+    {
+      "id": 14,
+      "nama": "Curved Axe",
+      "image": "/assets/images/Curved-Axe.jpg",
+      "kategori": "Prasejarah",
+      "deskripsi": "Axe yang melengkung ini juga terbuat dari batu semi mulia dan memiliki garis-garis halus di permukaannya akibat pemolesan. Meskipun tidak diketahui jenis alat pemoles yang digunakan, ada bukti gerakan pemolesan memanjang dan miring.\n\nKapak melengkung, terbuat dari batu biasa, digunakan setiap hari untuk menggali dan menebang pohon, tetapi kapak ini kemungkinan besar digunakan untuk upacara, penguburan, atau barter."
+    },
+    {
+      "id": 15,
+      "nama": "Kasha Coin Mould",
+      "image": "/assets/images/Kasha-Coin-Mould.jpg",
+      "kategori": "Numesmatik & Heladrik",
+      "deskripsi": "Sepasang cetakan koin kasha, pada permukaannya terdapat 6 sisi koin yang berbeda (= dari 3 koin). Pada tiga sisi cetakan koin terdapat huruf Arab bertuliskan “wau” dan tahun Islam 1267 Hijriyah dalam posisi terbalik dan lingkaran kecil yang membulat. Pada cetakan sisi koin yang lain terdapat huruf Arab “Bandar Aceh Darassalam” dalam posisi terbalik dan lingkaran kecil yang membulat. Cetakan tersebut memiliki saluran air untuk memasukkan logam cair dan memiliki lubang-lubang kecil untuk mengikat agar tidak bergerak ketika cetakan diletakkan menghadap ke bawah."
+    },
+    {
+      "id": 16,
+      "nama": "Rupiah Gulden",
+      "image": "/assets/images/Rupiah-Gulden.jpg",
+      "kategori": "Numesmatik & Heladrik",
+      "deskripsi": "Satu sisi koin 1/4 gulden ini ditulis dengan aksara Melayu-Arab, sisi lainnya dalam bahasa Belanda dengan lambang mahkota Belanda. Ini adalah contoh koin yang dicetak dengan mesin, atau digiling, yang dibuat dengan cetakan seperti yang ditunjukkan di seberang, kiri atas."
+    },
+    {
+      "id": 17,
+      "nama": "Kendi Bulan Sabit",
+      "image": "/assets/images/Kendi-Bulan-Sabit.jpg",
+      "kategori": "Keramik",
+      "deskripsi": "Kaolin Tiongkok, Dinasti Ming (1368–1644). Kendi porselen berwarna biru dan putih ini berbentuk bulan sabit dengan cerat yang muncul dari tengah. Cerat digunakan untuk menuang air atau cairan lain ke luar atau ke dalam kendi. Ujung kedua kendi dihias dengan perak berbentuk kerucut. Tak pernah ditemukan lagi di manapun kendi berbentuk seperti ini, sehingga diperkirakan kendi ini dibuat berdasarkan pesanan khusus pada zaman Dinasti Ming."
+    },
+    {
+      "id": 18,
+      "nama": "Plate",
+      "image": "/assets/images/Plate.jpg",
+      "kategori": "Keramik",
+      "deskripsi": "Piring besar dari Dinasti Ming ini dicat dengan lapisan enamel yang dikenal sebagai wu t’sai (‘lima warna’). Kaligrafi Arabnya dibuat dengan sangat ahli. Piring ini tergolong sebagai ‘barang Swatow’, yang menunjukkan ekspor keramik Tiongkok pada abad ke-16 dan ke-17 (berdasarkan nama kota pelabuhan Shantou, Guangdong, tempat keramik tersebut dikirim)."
+    },
+    {
+      "id": 19,
+      "nama": "Pinisi Boat",
+      "image": "/assets/images/Pinisi-Boat.jpg",
+      "kategori": "Geografi",
+      "deskripsi": "Perahu pinisi dibuat oleh orang Bugis di Makasar. Pinisi asli berkembang menjadi transportasi terpenting untuk perdagangan di Indonesia, dan masih digunakan untuk mengangkut kayu dari kepulauan ke Jakarta."
+    },
+    {
+      "id": 20,
+      "nama": "Ship's Compass",
+      "image": "/assets/images/Ship-Compass.jpg",
+      "kategori": "Geografi",
+      "deskripsi": "Pada masa lampau, pelaut menggunakan bintang, gelombang, dan elemen lain sebagai petunjuk arah perjalanan mereka. Kompas dipopulerkan pada abad ke-19 ketika pelaut menggunakannya bersama peta untuk menentukan arah."
+    },
+    {
+      "id": 21,
+      "nama": "Ship Compass 2",
+      "image": "/assets/images/Ship-Compass2.jpg",
+      "kategori": "Geografi",
+      "deskripsi": "Pada zaman dahulu, pelaut menggunakan bintang, gelombang, dan elemen lain untuk menentukan arah perjalanan mereka. Kompas dipopulerkan pada abad ke-19 ketika pelaut menggunakannya dengan peta untuk menentukan arah."
+    },
+    {
+      "id": 22,
+      "nama": "Sounde Strait",
+      "image": "/assets/images/Sounde-Strait.jpg",
+      "kategori": "Geografi",
+      "deskripsi": "Peta ini, yang dibuat oleh Pierre van de A.A pada tahun 1729, menggunakan warna untuk menunjukkan kedalaman laut di Selat Sunda, tetapi tidak mengikuti aturan kartografi secara akurat. Peta ini menggambarkan kedalaman laut di sekitar pulau Sumatra, Jawa, dan pulau-pulau kecil di dekatnya, termasuk Selat Sunda, Pulau Panaitan, dan Krakatau sebelum letusan gunung berapi pada tahun 1883."
+    },
+    {
+      "id": 23,
+      "nama": "Globe",
+      "image": "/assets/images/Globe.jpg",
+      "kategori": "Geografi",
+      "deskripsi": "Globe ini menggambarkan negara-negara di lima benua (Asia, Afrika, Amerika, Eropa, dan Australia) dan berisi informasi tentang ekspedisi pelayaran, astronomi, arah kompas, dan lain-lain."
+    },
+    {
+      "id": 24,
+      "nama": "Pistol",
+      "image": "/assets/images/Pistol.jpg",
+      "kategori": "Geografi",
+      "deskripsi": "Pistol ini merupakan alat navigasi, digunakan untuk keselamatan dan memberikan sinyal jauh ketika kapal sedang berlayar menuju pelabuhan."
+    },
+    {
+      "id": 25,
+      "nama": "Alusu",
+      "image": "/assets/images/Alusu.jpg",
+      "kategori": "Etnografi",
+      "deskripsi": "Alusu adalah alat musik perkusi berbentuk tabung atau kotak yang berisi biji-biji. Alat ini memegang peranan penting dalam tarian mabissu. Menurut kepercayaan setempat, suara yang terdengar dari alusu dianggap sebagai pengantar syair-syair berisikan pujian yang dipanjatkan kepada Sangiang Serri pada upacara penanaman padi."
+    },
+    {
+      "id": 26,
+      "nama": "Keris",
+      "image": "/assets/images/Keris.jpg",
+      "kategori": "Etnografi",
+      "deskripsi": "Keris, tombak, pedang dan senjata berpamor lainnya disebut pula tosan aji (besi yang bernilai tinggi dan dimuliakan). Keris ini merupakan keris dhapur Kebo Lajer, pamor tambal. Bilah kerisnya menunjukkan tangguh Cirebon pasca Majapahit abad XVI. Keris ini populer pada masyarakat petani di pedesaan. Simbol kekuatan rakyat yang tulus dan penurut. Keris Indonesia ditetapkan sebagai warisan budaya dunia pada tanggal 25 November 2005 sebagai Masterpiece of Oral and Intangible Heritage of Humanity, yang kemudian terinskripsi dalam Representative List of Humanity UNESCO pada tahun 2009."
+    },
+    {
+      "id": 27,
+      "nama": "Gelang Aceh",
+      "image": "/assets/images/Gelang-Aceh.jpg",
+      "kategori": "Etnografi",
+      "deskripsi": "Gelang ini dikenakan oleh perempuan Alas sebagai pelengkap dari busana tradisional pada saat upacara adat yang bersifat formal. Biasanya dikombinasikan dengan kalung dan anting."
+    },
+    {
+      "id": 28,
+      "nama": "Kain Koffo",
+      "image": "/assets/images/Kain-Koffo.jpg",
+      "kategori": "Etnografi",
+      "deskripsi": "Serat tanaman Kepulauan Sangihe – Talaud, Sulawesi Utara Awal abad ke–20. Ragam hias pada koffo (Talaud) atau Hote (Sangihe) dibuat menggunakan teknik lungi tambahan dengan alat tenun gedog. Koffo dengan ragam hias dipakai untuk keperluan hiasan, sedangkan koffo polos digunakan untuk pakaian."
+    },
+    {
+      "id": 29,
+      "nama": "Peralatan Debus",
+      "image": "/assets/images/Peralatan-Debus.jpg",
+      "kategori": "Etnografi",
+      "deskripsi": "Debus adalah salah satu permainan tradisional yang sudah ada sejak masa pemerintahan Sultan Ageng Tirtayasa (1651–1682), gerakannya menyerupai tradisi Arab Tarekat Rifaiah yang dibawa dari Aceh pada abad ke-16. Sebelum memulai permainan, para pemain Debus biasanya melakukan puasa, berdoa dan latihan secara serius. Selanjutnya, pemain Debus melakukan kegiatan berbahaya seperti berbaring di paku, berjalan di atas bara panas, menusuk diri mereka dengan paku logam, memukuli tubuh mereka dengan palu dan menusuk diri mereka dengan alat tajam, yang juga diputar dengan musik Rebana. Semua tindakan yang dilakukan dalam pertunjukan tanpa sedikitpun melukai para pemainnya. Kemampuan para pemain Debus tersebut membuat para penonton tertarik dan menganggap praktik itu seperti memiliki kekuatan super."
+    },
+    {
+      "id": 30,
+      "nama": "Ani-Ani",
+      "image": "/assets/images/Ani-Ani.jpg",
+      "kategori": "Etnografi",
+      "deskripsi": "Dalam berbagai kebudayaan daerah, karena dianggap penting, padi dipersonifikasikan sebagai manusia atau dewa. Mitos mengenai padi ditemukan di banyak kebudayaan di Jawa, Sumatra, Sulawesi, Kalimantan, dan pulau-pulau di kawasan Nusa Tenggara. Dewi Sri, Sanghyang Pohaci, adalah contoh dewi padi di Pulau Jawa. Umumnya petani menghormati dan tidak ingin menyakitinya dengan menggunakan ani-ani atau ketam ketika panen."
+    },
+    {
+      "id": 31,
+      "nama": "Arca Pemakaman (Pemia)",
+      "image": "/assets/images/Arca-Pemakaman.jpg",
+      "kategori": "Etnografi",
+      "deskripsi": "Pemia (kalio) merupakan perwujudan leluhur dalam bentuk arca untuk kelengkapan upacara penguburan sekunder pada masyarakat Pamona. Patung ini mengenakan hiasan kepala laki-laki dari perunggu yang disebut Sanggori. Penggunaan Sanggori hanya untuk bangsawan Pamona."
+    },
+    {
+      "id": 32,
+      "nama": "Arca Buddha",
+      "image": "/assets/images/Arca-Buddha.jpg",
+      "kategori": "Arkeologi",
+      "deskripsi": "Perunggu Sungai Komering, Palembang, Sumatera Selatan Abad 8 – 11. Arca Buddha berdiri samapāda temuan Sungai Komering, Palembang yang bergaya seni Sailendra. Tangan kanan memposisikan abhaya (menolak bahaya), tangan kirinya memegang ujung jubah. Pakaiannya berupa jubah tipis yang menutupi kedua bahu. Gaya seni arca Sailendra dapat diwujudkan dari bentuknya yang proporsional dan benar-benar menggambarkan sosok dewa yang dipuja. Di sisi lain, arca Buddha ini juga mendapat pengaruh kesenian Pala. Karakter kesenian Pala dapat dilihat dari penggambaran pakaian berupa jubah tipis yang menutupi kedua bahu, usnisa (tonjolan di atas kepala) digambarkan lebih besar, dan lipatan jubah disekitar leher terlihat seperti kalung sementara bagian kain yang menjuntai ke bawah terlihat seperti ekor burung layang-layang."
+    },
+    {
+      "id": 33,
+      "nama": "Figurin Perunggu",
+      "image": "/assets/images/Figurin-Perunggu.jpg",
+      "kategori": "Arkeologi",
+      "deskripsi": "Patung perunggu ini menggambarkan penari-penari yang bergaya dinamis. Gaya patung-patung tersebut, seolah-olah menggambarkan babak sebuah tarian. Patung bergaya dinamis ini merupakan salah satu dari sembilan buah patung yang ditemukan di Bangkinang, Riau. Terdapat lingkaran di atas kepalanya, sebagai kaitan. Kemungkinan digunakan sebagai bandul kalung dan sebagai benda upacara keagamaan."
+    },
+    {
+      "id": 34,
+      "nama": "Celengan",
+      "image": "/assets/images/Celengan.jpg",
+      "kategori": "Arkeologi",
+      "deskripsi": "Sepertinya budaya menabung telah dikenal oleh masyarakat pada masa Majapahit. Terbukti ditemukannya celengan terbuat dari tanah liat bakar. Istilah “celengan” berasal dari kata ‘celeng’, yang berarti ‘babi’ dalam bahasa Jawa kuno. Hewan ini sering dianggap sebagai simbol kesuburan dan kekayaan. Kemungkinan besar uang yang disimpan di dalam celengan ini adalah uang kepeng, gobog atau kasha."
+    },
+    {
+      "id": 35,
+      "nama": "Arca Garuda",
+      "image": "/assets/images/Arca-Garuda.jpg",
+      "kategori": "Arkeologi",
+      "deskripsi": "Nama Garuda berasal dari kata Sanskerta. Garuda digambarkan sebagai kendaraan (wahana) Dewa Wisnu. Dalam agama Hindu, dewa Wisnu merupakan salah satu dari tiga dewa utama (trimurti) yang dipercaya sebagai Sang Pemelihara Alam Semesta. Garuda seringkali dilukiskan memiliki kepala, sayap, ekor dan moncong burung elang serta tubuh, tangan dan kaki seorang manusia. Garuda digunakan sebagai lambang kerajaan Airlangga pada abad ke-11 Masehi. Prasasti-prasasti yang dikeluarkan di masa pemerintahan Airlangga kerap menggunakan lambang Garuda yang dipahat di bagian puncak prasasti yang dikenal dengan sebutan Garudamukha lancana. Lambang garuda dipakai pula oleh raja-raja kerajaan Janggala yang dianggap penerus kerajaan Airlangga."
+    },
+    {
+      "id": 36,
+      "nama": "Kakawin Sutasoma",
+      "image": "/assets/images/Kakawin-Sutasoma.jpg",
+      "kategori": "Arkeologi",
+      "deskripsi": "Kitab Sutasoma ditulis dalam bahasa Jawa kuno oleh Mpu Tantular pada akhir abad ke-14 saat puncak Kerajaan Majapahit. Kitab ini menggambarkan toleransi beragama yang telah lama terjalin di Kerajaan Majapahit. Sikap toleransi ini kemudian diadopsi oleh negara Indonesia sebagai semboyannya. Dalam kerangka Negara Kesatuan Republik Indonesia, semboyan Bhinneka Tunggal Ika merupakan pernyataan sikap untuk hidup berdampingan dalam keberagaman dan menjadikan perbedaan sebagai nada untuk mencapai keharmonisan.\n\nKitab Sutasoma merupakan teks yang dikutip oleh para pendiri bangsa Indonesia dalam merumuskan semboyan Negara Kesatuan Republik Indonesia, “Berbeda-beda tetapi tetap satu”. Berikut ini adalah kutipan dari pupuh 139 bait ke-5: “Rwaneka dhatu winuwus Buddha Wiswa Bhinneki rakwa ring apan hit parwanosen, Mangka ng Jinatwa kalawan Siwatatwa Tunggal, Bhinneka Tunggal Ika tan hana dharma mangrwa”. Artinya, Buddha dan Siwa adalah dua substansi yang berbeda. Mereka berbeda, tetapi bagaimana mereka dapat dibedakan? Karena Jina (Buddha) dan Siwa adalah satu. Meskipun terbagi, keduanya tetap satu. Kebenarannya jelas dan tidak dapat disangkal."
+    },
+    {
+      "id": 38,
+      "nama": "Relief Kalpawreksa",
+      "image": "/assets/images/Relief-Kalpawreksa.jpg",
+      "kategori": "Arkeologi",
+      "deskripsi": "Pohon kehidupan, pohon hayat, atau tree of life adalah pohon yang diyakini memberikan perlindungan dan pengayoman. Sesuai namanya, pohon kehidupan dipercaya mampu memberikan kehidupan bagi semua makhluk hidup dan dapat memenuhi segala keinginan manusia. Selain itu, pohon kehidupan juga disamakan dengan kalpataru atau pohon pengetahuan (budi).\n\nKonsep pohon kehidupan dikenal di berbagai wilayah Nusantara dan telah ada sejak masa praaksara. Masyarakat yang menganut animisme dan dinamisme mempercayai bahwa pohon-pohon besar tertentu memiliki kekuatan magis yang dapat mengabulkan permintaan manusia. Begitu pula pada masa Hindu-Buddha, konsep pohon kehidupan dikenal. Kalpataru adalah salah satu dari lima pohon suci di kahyangan Dewa Indra dalam agama Hindu. Mandara, Parijata, Samtana, Kalpawrksa atau Kalpataru, dan Haricandana adalah kelima pohon suci tersebut, yang dikenal sebagai Pancawreksa. Dalam agama Buddha, pohon kehidupan dikenal sebagai pohon bodhi, yang terkait dengan pencerahan yang diterima Pangeran Siddharta Gautama atau Sang Buddha di bawah pohon tersebut. Pada masa Islam, pohon kehidupan dikaitkan dengan Sidrat al-Muntaha, yang secara harfiah berarti pohon bidara tempat berakhirnya segala sesuatu, dengan daun-daunnya dipenuhi perintah Allah dan terkait dengan peristiwa perintah salat. Pada masa Islam di Jawa, konsep pohon kehidupan diadaptasi menjadi gunungan dalam pewayangan dan digunakan sebagai media dakwah.\n\nDi Selasar Utara Museum Nasional, Sobat Museum dapat melihat relief kalpawreksa. Kalpawreksa adalah nama lain dari kalpataru atau pohon kehidupan. Hiasan dinding candi ini terbuat dari tanah liat dengan warna coklat kemerahan. Relief kalpawreksa koleksi Museum Nasional berasal dari Candi Gunung Gangsir di Jawa Timur dan diperkirakan berasal dari abad 14-15 Masehi."
+    }
+  ]
+}
